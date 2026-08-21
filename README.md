@@ -15,7 +15,7 @@ I'm Pursuing B.TECH <br>I'm currently working on Database & SQL<br>
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VeerCodex&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek_Vishwakarma"/>
 
 ---
 ## 🏆 GitHub Trophies
