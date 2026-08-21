@@ -12,6 +12,12 @@ I'm Pursuing B.TECH <br>I'm currently working on Database & SQL<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Prateekvish-cloud&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekvish-cloud&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VeerCodex&theme=tokyo-night"/>
+
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prateekvish-cloud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
