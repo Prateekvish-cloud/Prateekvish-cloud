@@ -1,5 +1,16 @@
-# 💫 About Me:
-I'm Pursuing B.TECH <br>I'm currently working on Database & SQL<br>
+# 🚀 About Me
+
+🎓 B.Tech CSE Student
+
+💻 Python | C++ | DSA | Full Stack Development 
+
+🤖 Learning AI & Machine Learning
+
+🌱 Building Real-World Projects
+
+🎯 Goal: Become a Software Engineer at a Product-Based Company
+
+---
 
 
 ## 🌐 Socials:
@@ -19,4 +30,4 @@ I'm Pursuing B.TECH <br>I'm currently working on Database & SQL<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=Prateekvish-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
